@@ -1,3 +1,4 @@
+The following are PUF variables which are contained in CPS and may be used as predictors for E02000, E26270, P22250, P23250
 {
 'DSI': '1 if claimed as dependent on another return; otherwise 0',
  'EIC': 'number of EIC qualifying children (range: 0 to 3)',
